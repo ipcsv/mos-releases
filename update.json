@@ -1,0 +1,13 @@
+{
+  "app": "mos",
+  "latest": {
+    "version": "1.5.1",
+    "build": 8,
+    "releasedAt": "2026-11-26T06:01:00+08:00",
+    "notes": "登录流程修复：已有分身登录后直接进首页；选分身与新建合并到同一页。固定签名，从这一版起可直接覆盖升级。在线升级已接通。",
+    "mandatory": false,
+    "downloads": {
+      "android": "https://github.com/ipcsv/mos-releases/releases/download/v1.5.1/mos-v1-c462514d.apk"
+    }
+  }
+}
