@@ -1,13 +1,10 @@
 {
-  "app": "mos",
-  "latest": {
-    "version": "1.6.0",
-    "build": 13,
-    "releasedAt": "2026-11-26T10:09:08+08:00",
-    "notes": "驻场AI本地化（记忆高速通道、模式/模型/身份本地先行、登记册缓存 30 分钟、考试离线先存后交）+ 头像三档提醒模式 + 用户头像宫殿连接开关 + 注册自设计 + 预设世界书 mos 默认设定 + 宫殿菜单四组 + 输入栏窄屏 + 离线优雅降级 + arm64 单 ABI（APK 113MB → 62MB，x86_64 / v7a 已停）。装上后重新登录（或开关一次启用记忆宫殿）。",
-    "mandatory": false,
-    "downloads": {
-      "android": "https://github.com/ipcsv/mos-releases/releases/download/v1.6.0/mos-v1-89c0e39f.apk"
-    }
-  }
+  "version": "1.6.1",
+  "build": 14,
+  "releasedAt": "2026-11-26T10:47:00+08:00",
+  "url": "https://github.com/ipcsv/mos-releases/releases/tag/v1.6.1",
+  "apk": "https://github.com/ipcsv/mos-releases/releases/download/v1.6.1/mos-v1-c777c5bb.apk",
+  "sha256": "529170aac4fb1512045866c71b166baa89019efa08cc05eba1f02a56944d59d6",
+  "size": 62313921,
+  "notes": "定时多气泡 + 气泡拆分默认开；感知机制；CLI-MCP 二合一；消息震动提醒；输入栏窄屏按钮修复（思考等级、工具菜单回来）"
 }
