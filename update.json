@@ -1,13 +1,13 @@
 {
   "app": "mos",
   "latest": {
-    "version": "1.6.1",
-    "build": 14,
-    "releasedAt": "2026-11-26T10:47:00+08:00",
-    "notes": "定时多气泡 + 气泡拆分默认开；感知机制；CLI-MCP 二合一；消息震动提醒；输入栏窄屏按钮修复（思考等级、工具菜单回来）",
+    "version": "1.6.2",
+    "build": 15,
+    "releasedAt": "2026-11-26T12:41:00+08:00",
+    "notes": "分身自唤醒/唤醒时钟：三个本地工具（设/取消/列表）+ 执行器 + 列表页总开关 + 感知接线（同步攒够了传不上，设 30 分钟后唤醒再试）",
     "mandatory": false,
     "downloads": {
-      "android": "https://github.com/ipcsv/mos-releases/releases/download/v1.6.1/mos-v1-c777c5bb.apk"
+      "android": "https://github.com/ipcsv/mos-releases/releases/download/v1.6.2/mos-v1-db25bfc8.apk"
     }
   }
 }
