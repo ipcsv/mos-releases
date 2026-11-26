@@ -1,10 +1,13 @@
 {
-  "version": "1.6.1",
-  "build": 14,
-  "releasedAt": "2026-11-26T10:47:00+08:00",
-  "url": "https://github.com/ipcsv/mos-releases/releases/tag/v1.6.1",
-  "apk": "https://github.com/ipcsv/mos-releases/releases/download/v1.6.1/mos-v1-c777c5bb.apk",
-  "sha256": "529170aac4fb1512045866c71b166baa89019efa08cc05eba1f02a56944d59d6",
-  "size": 62313921,
-  "notes": "定时多气泡 + 气泡拆分默认开；感知机制；CLI-MCP 二合一；消息震动提醒；输入栏窄屏按钮修复（思考等级、工具菜单回来）"
+  "app": "mos",
+  "latest": {
+    "version": "1.6.1",
+    "build": 14,
+    "releasedAt": "2026-11-26T10:47:00+08:00",
+    "notes": "定时多气泡 + 气泡拆分默认开；感知机制；CLI-MCP 二合一；消息震动提醒；输入栏窄屏按钮修复（思考等级、工具菜单回来）",
+    "mandatory": false,
+    "downloads": {
+      "android": "https://github.com/ipcsv/mos-releases/releases/download/v1.6.1/mos-v1-c777c5bb.apk"
+    }
+  }
 }
