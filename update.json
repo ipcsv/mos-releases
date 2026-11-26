@@ -1,13 +1,13 @@
 {
   "app": "mos",
   "latest": {
-    "version": "1.5.1",
-    "build": 8,
-    "releasedAt": "2026-11-26T06:01:00+08:00",
-    "notes": "登录流程修复：已有分身登录后直接进首页；选分身与新建合并到同一页。固定签名，从这一版起可直接覆盖升级。在线升级已接通。",
+    "version": "1.5.2",
+    "build": 12,
+    "releasedAt": "2026-11-26T09:47:59+08:00",
+    "notes": "App 专属 MCP 主干道 /mcp/app + MCP 自动接线 + create_workspace + 显示名 + 记忆整块配置 + About 链接清理。装上后需重新登录（或开关一次启用记忆宫殿），让 MCP 重新接线到 /mcp/app。",
     "mandatory": false,
     "downloads": {
-      "android": "https://github.com/ipcsv/mos-releases/releases/download/v1.5.1/mos-v1-c462514d.apk"
+      "android": "https://github.com/ipcsv/mos-releases/releases/download/v1.5.2/mos-v1-a8ce0ea3.apk"
     }
   }
 }
