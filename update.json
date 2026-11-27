@@ -1,13 +1,1 @@
-{
-  "app": "mos",
-  "latest": {
-    "version": "1.6.2",
-    "build": 15,
-    "releasedAt": "2026-11-26T12:41:00+08:00",
-    "notes": "分身自唤醒/唤醒时钟：三个本地工具（设/取消/列表）+ 执行器 + 列表页总开关 + 感知接线（同步攒够了传不上，设 30 分钟后唤醒再试）",
-    "mandatory": false,
-    "downloads": {
-      "android": "https://github.com/ipcsv/mos-releases/releases/download/v1.6.2/mos-v1-db25bfc8.apk"
-    }
-  }
-}
+{"app":"mos","latest":{"build":8,"downloads":{"android":"https://github.com/ipcsv/mos-releases/releases/download/v1.6.3/mos-v1-4ba57702.apk"},"mandatory":false,"notes":"fc_native_video_thumbnail AGP 9 修复 + 测试树修（12 文件 159/159）+ 改造包 A1–A5、数据库链 v7、上游 100% 同步、统一测试 492/492","releasedAt":"2026-11-27T12:05:00+08:00","version":"1.6.3"}}
