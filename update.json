@@ -1,1 +1,1 @@
-{"app":"mos","latest":{"build":13,"downloads":{"android":"https://github.com/ipcsv/mos-releases/releases/download/v1.6.8/mos-v1-9606069d.apk"},"mandatory":false,"notes":"v1.6.8 管理员模型纠正：删第二条管理员记录，驻场管理员只做标签，启动清理已落地的重复记录，标签改成驻场管理员","releasedAt":"2026-11-28T03:59:01+08:00","version":"1.6.8"}}
+{"app":"mos","latest":{"build":14,"downloads":{"android":"https://github.com/ipcsv/mos-releases/releases/download/v1.6.9/mos-v1-b0f3a23c.apk"},"mandatory":false,"notes":"v1.6.9 收口轮：真实助手 + 注册链路 + 头像点 + 世界书门控 + 多套配置 + 模型显示","releasedAt":"2026-11-27T23:08:25+08:00","version":"1.6.9"}}
