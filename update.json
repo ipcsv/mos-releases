@@ -1,1 +1,1 @@
-{"app":"mos","latest":{"build":11,"downloads":{"android":"https://github.com/ipcsv/mos-releases/releases/download/v1.6.6/mos-v1-c3e1eeed.apk"},"mandatory":false,"notes":"v1.6.6 修复批：模型自动切换、同步进度、接待、沙箱、模型页合一、唤醒、标签全改","releasedAt":"2026-11-27T23:55:56+08:00","version":"1.6.6"}}
+{"app":"mos","latest":{"build":12,"downloads":{"android":"https://github.com/ipcsv/mos-releases/releases/download/v1.6.7/mos-v1-bd11eb13.apk"},"mandatory":false,"notes":"v1.6.7 修复批：工作空间、头像+标签、唤醒显示、自动切换、立即同步、拉全身份、接待钩子、记忆同步防回档、发送按钮、分段发送、世界书、管理员记录","releasedAt":"2026-11-28T03:19:14+08:00","version":"1.6.7"}}
