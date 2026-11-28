@@ -1,1 +1,1 @@
-{"app":"mos","latest":{"build":15,"downloads":{"android":"https://github.com/ipcsv/mos-releases/releases/download/v1.6.10/mos-v1-19316be4.apk"},"mandatory":false,"notes":"v1.6.10 模型详情底弹 + 登录选分身过滤","releasedAt":"2026-11-28T12:12:15+08:00","version":"1.6.10"}}
+{"app":"mos","latest":{"build":16,"downloads":{"android":"https://github.com/ipcsv/mos-releases/releases/download/v1.6.11/mos-v1-ec427bc2.apk"},"mandatory":false,"notes":"v1.6.11 身份梳理：登录选单+切换面板去重、Agnes 阿拉伯编号、登录不删对话、同步门禁、通知授权","releasedAt":"2026-11-28T16:22:52+08:00","version":"1.6.11"}}
